@@ -106,7 +106,41 @@ h3 {
 body { 
     font-size: large;
 }
+#picture2a {
+    width: 400px;
+    height: auto;
+   
+   
 }
+
+#picture2b {
+    width: 400px;
+    height: auto;
+
+}
+
+#picture2c {
+    width: 400px;
+    height: auto;
+   
+
+}
+
+#picture2d {
+    width: 400px;
+    height: auto;
+    
+
+}
+
+#picture2e {
+    width: 400px;
+    height: auto;
+
+}
+}
+
+
 
 @media screen and (max-width: 768px) {
     #picture1  {
@@ -161,4 +195,4 @@ body {
         
         }
     }
-    /*done*/
+    /*done/*
